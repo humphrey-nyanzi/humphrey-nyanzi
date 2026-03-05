@@ -3,7 +3,7 @@
 
 I work at the intersection of sports science and data — building analysis 
 pipelines, extracting performance insights from GPS tracking systems, and 
-translating physical data into decisions coaches and technical staff can act on.
+translating data into decisions coaches and technical staff can act on.
 
 Based in Kampala, Uganda. Focused on African football.
 
@@ -67,5 +67,5 @@ Certificate in AI & Machine Learning — Refactory Limited
 
 📧 hnyanzi32@gmail.com
 
-Open to data analysis collaborations, consultancy, and research projects 
+Open to data analysis collaborations and projects 
 in sports performance and football analytics.
