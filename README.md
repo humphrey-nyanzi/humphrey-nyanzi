@@ -58,6 +58,7 @@ methods  = ["Hypothesis testing", "ANOVA + Tukey HSD",
 ## Background
 
 BSc Sports Science —  Makerere University 
+
 Certificate in AI & Machine Learning — Refactory Limited
 
 ---
